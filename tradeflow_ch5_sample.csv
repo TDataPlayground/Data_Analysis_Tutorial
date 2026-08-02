@@ -1,0 +1,31 @@
+Order ID,Customer Name,Country,Product Category,Order Date,Order Amount (₦),Delivery Status
+TF-1001,Chidi Okonkwo,Nigeria,Electronics,2024-01-03,45000,Delivered
+TF-1002,Amara Mensah,Ghana,Fashion,2024-01-05,12500,Delivered
+TF-1003,Fatima Diallo,Kenya,Home & Kitchen,2024-01-06,8200,Delivered
+TF-1004,Kevin Mutua,Kenya,Electronics,2024-01-08,67000,Delivered
+TF-1005,Lindiwe Dube,South Africa,Beauty & Health,2024-01-09,33700,Delivered
+TF-1006,Emeka Nwosu,Nigeria,Books & Stationery,2024-01-10,4100,Delivered
+TF-1007,Aisha Kamara,Rwanda,Fashion,2024-01-11,19500,Failed
+TF-1008,Kofi Asante,Ghana,Electronics,2024-01-12,88000,Delivered
+TF-1009,Ngozi Adeyemi,Nigeria,Home & Kitchen,2024-01-14,21000,Delivered
+TF-1010,Sipho Ndlovu,South Africa,Electronics,2024-01-15,95000,Delivered
+TF-1011,Wanjiru Kamau,Kenya,Beauty & Health,2024-01-16,15600,Failed
+TF-1012,Kwame Boateng,Ghana,Books & Stationery,2024-01-17,6800,Delivered
+TF-1013,Blessing Eze,Nigeria,Fashion,2024-01-18,28000,Delivered
+TF-1014,Zanele Mokoena,South Africa,Home & Kitchen,2024-01-19,17400,Delivered
+TF-1015,Eric Mugisha,Rwanda,Electronics,2024-01-21,54000,Delivered
+TF-1016,Hauwa Musa,Nigeria,Beauty & Health,2024-01-22,9300,Failed
+TF-1017,Abena Owusu,Ghana,Fashion,2024-01-23,22000,Delivered
+TF-1018,James Otieno,Kenya,Books & Stationery,2024-01-24,5500,Delivered
+TF-1019,Thabo Sithole,South Africa,Electronics,2024-01-25,112000,Delivered
+TF-1020,Clarisse Uwase,Rwanda,Home & Kitchen,2024-01-26,13800,Delivered
+TF-1021,Rotimi Adebayo,Nigeria,Electronics,2024-01-28,76000,Delivered
+TF-1022,Efua Mensah,Ghana,Beauty & Health,2024-01-29,11200,Failed
+TF-1023,Grace Waweru,Kenya,Fashion,2024-01-30,34500,Delivered
+TF-1024,Nomsa Dlamini,South Africa,Books & Stationery,2024-01-31,7900,Delivered
+TF-1025,Pacifique Niyonzima,Rwanda,Fashion,2024-02-01,26000,Delivered
+TF-1026,Tunde Bakare,Nigeria,Home & Kitchen,2024-02-03,18700,Delivered
+TF-1027,Ama Darko,Ghana,Electronics,2024-02-04,59000,Delivered
+TF-1028,David Kariuki,Kenya,Fashion,2024-02-05,31000,Failed
+TF-1029,Precious Dube,South Africa,Beauty & Health,2024-02-06,14500,Delivered
+TF-1030,Diane Mukamana,Rwanda,Books & Stationery,2024-02-07,4800,Delivered
