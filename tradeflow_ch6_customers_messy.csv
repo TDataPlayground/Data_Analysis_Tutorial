@@ -1,0 +1,62 @@
+Customer ID,Full Name,Email,Phone,Country,City,Age,Gender,Registration Date,Total Orders,Total Spend (₦),Customer Segment
+TF-C001,Chidi Okonkwo,chidi.okonkwo@email.com,+234-803-555-0101,Nigeria,Lagos,34,Male,2023-01-15,7,245000,Premium
+TF-C002,Amara Mensah,amara.mensah@email.com,+233-244-555-0102,Ghana,Accra,28,Female,2023-01-20,3,87500,Standard
+TF-C003,Fatima Diallo,fatima.diallo@email.com,+254-722-555-0103,Kenya,Nairobi,31,Female,2023-02-03,5,134000,Standard
+TF-C004,Kevin Mutua,kevin.mutua@email.com,+254-733-555-0104,Kenya,Mombasa,45,Male,2023-02-14,12,567000,Premium
+TF-C005,Lindiwe Dube,lindiwe.dube@email.com,+27-82-555-0105,South Africa,Johannesburg,39,Female,2023-02-28,4,112000,Standard
+TF-C006,Emeka Nwosu,emeka.nwosu@email.com,+234-805-555-0106,nigeria,Abuja,27,Male,2023-03-05,2,43000,Basic
+TF-C007,Aisha Kamara,aisha.kamara@email.com,+234-806-555-0107,NIGERIA,Lagos,33,Female,2023-03-12,8,312000,Premium
+TF-C008,Kofi Asante,kofi.asante@email.com,+233-245-555-0108,Ghana,Kumasi,41,Male,2023-03-18,6,198000,Standard
+TF-C009,Ngozi Adeyemi,ngozi.adeyemi@email.com,+234-807-555-0109,Nigeria,LAGOS,29,Female,2023-03-25,4,95000,Standard
+TF-C010,Sipho Ndlovu,sipho.ndlovu@email.com,+27-83-555-0110,South Africa,Cape Town,52,Male,2023-04-02,15,890000,Premium
+TF-C011,Wanjiru Kamau,wanjiru.kamau@email.com,+254-723-555-0111,Kenya,Nairobi,36,F,2023-04-10,5,143000,Standard
+TF-C012,Kwame Boateng,kwame.boateng@email.com,+233-246-555-0112,Ghana,accra,24,male,2023-04-18,2,31000,Basic
+TF-C013,Blessing Eze,,,Nigeria,Port Harcourt,31,Female,2023-04-25,3,78000,Basic
+TF-C014,Zanele Mokoena,zanele.mokoena@email.com,+27-84-555-0114,South Africa,Durban,44,Female,2023-05-03,9,421000,Premium
+TF-C015,Eric Mugisha,eric.mugisha@email.com,+250-788-555-0115,Rwanda,Kigali,30,Male,2023-05-11,4,107000,Standard
+TF-C016,Hauwa Musa,hauwa.musa@email.com,+234-808-555-0116,Nigeria,Kano,0,Female,2023-05-19,1,18500,Basic
+TF-C017,Abena Owusu,abena.owusu@email.com,+233-247-555-0117,Ghana,Accra,38,Female,2023-05-27,6,167000,Standard
+TF-C018,James Otieno,james.otieno@email.com,+254-724-555-0118,Kenya,Kisumu,33,Male,2023-06-04,3,84000,Basic
+TF-C019,Thabo Sithole,thabo.sithole@email.com,+27-85-555-0119,South Africa,Pretoria,48,Male,2023-06-12,18,"₦1,245,000",Premium
+TF-C020,Clarisse Uwase,clarisse.uwase@email.com,+250-789-555-0120,Rwanda,Kigali,26,Female,2023-06-20,2,54000,Basic
+TF-C021,  Rotimi Adebayo  ,rotimi.adebayo@email.com,+234-809-555-0121,Nigeria,Ibadan,37,Male,2023-06-28,7,276000,Standard
+TF-C022,Efua Mensah,efua.mensah@email.com,+233-248-555-0122,Ghana,Tema,29,Female,2023-07-06,3,71000,Basic
+TF-C023,Grace Waweru,grace.waweru@email.com,+254-725-555-0123,Kenya,Nairobi,35,Female,2023-07-14,5,138000,Standard
+TF-C024,Nomsa Dlamini,nomsa.dlamini@email.com,+27-86-555-0124,South Africa,Johannesburg,42,Female,2023-07-22,10,534000,Premium
+TF-C025,Pacifique Niyonzima,pacifique.n@email.com,+250-790-555-0125,Rwanda,Musanze,31,Male,2023-07-30,4,119000,Standard
+TF-C026,Tunde Bakare,tunde.bakare@email.com,+234-810-555-0126,Nigeria,Lagos,44,Male,2023-08-07,11,612000,PREMIUM
+TF-C027,Ama Darko,ama.darko@email.com,+233-249-555-0127,Ghana,Accra,27,Female,2023-08-15,2,45000,basic
+TF-C028,David Kariuki,david.kariuki@email.com,+254-726-555-0128,Kenya,Nairobi,39,Male,2023-08-23,6,189000,Standard
+TF-C029,Precious Dube,precious.dube@email.com,+27-87-555-0129,South Africa,Cape Town,29,Female,2023-08-31,3,94000,Basic
+TF-C030,Diane Mukamana,diane.mukamana@email.com,+250-791-555-0130,Rwanda,Kigali,,Female,2023-09-08,5,156000,Standard
+TF-C031,Chukwuemeka Obi,c.obi@email.com,+234-811-555-0131,Nigeria,Enugu,35,Male,2023-09-16,4,103000,Standard
+TF-C032,Akosua Boateng,akosua.b@email.com,+233-250-555-0132,Ghana,Kumasi,30,Female,2023-09-24,3,67000,Basic
+TF-C008,Kofi Asante,kofi.asante@email.com,+233-245-555-0108,Ghana,Kumasi,41,Male,2023-03-18,6,198000,Standard
+TF-C033,Miriam Wanjiku,miriam.w@email.com,+254-727-555-0133,Kenya,Nakuru,43,Female,2023-10-02,7,234000,Standard
+TF-C034,Zodwa Zulu,zodwa.zulu@email.com,+27-88-555-0134,South Africa,Durban,37,Female,15/10/2023,5,145000,Standard
+TF-C035,Jean Habimana,jean.h@email.com,+250-792-555-0135,Rwanda,Kigali,28,Male,Oct 23 2023,2,48000,Basic
+TF-C036,Funmilayo Osei,funmi.osei@email.com,+234-812-555-0136,Nigeria,Lagos,32,Female,2023-10-30,4,-87000,Standard
+TF-C037,Benjamin Asare,ben.asare@email.com,+233-251-555-0137,Ghana,Accra,46,Male,2023-11-07,9,398000,Premium
+TF-C038,Akinyi Odhiambo,akinyi.o@email.com,+254-728-555-0138,Kenya,Nairobi,999,Female,2023-11-15,3,76000,Basic
+TF-C039,Lerato Molefe,lerato.m@email.com,+27-89-555-0139,South Africa,Johannesburg,34,Female,2023-11-23,6,201000,Standard
+TF-C040,Solange Iradukunda,solange.i@email.com,+250-793-555-0140,Rwanda,Kigali,25,Female,2023-12-01,1,23000,Basic
+TF-C041,Ibrahim Suleiman,ibrahim.s@email.com,+234-813-555-0141,NG,Abuja,40,Male,2023-12-09,8,334000,Standard
+TF-C042,Serwa Mensah,serwa.m@email.com,+233-252-555-0142,GH,Accra,29,Female,2023-12-17,3,78000,Basic
+TF-C043,Joyce Wangari,,+254-729-555-0143,Kenya,Nairobi,38,Female,2023-12-25,5,167000,Standard
+TF-C044,Nkosi Khumalo,nkosi.k@email.com,+27-90-555-0144,South Africa,Cape Town,31,Male,2024-01-02,4,134000,Standard
+TF-C045,Celestin Nzeyimana,celestin.n@email.com,+250-794-555-0145,Rwanda,Kigali,44,Male,2024-01-10,11,589000,Premiuim
+TF-C046,Olumide Fagbemi,olumide.f@email.com,+234-814-555-0146,Nigeria,Lagos,36,Male,2024-01-18,6,243000,Standard
+TF-C047,Yaa Asantewaa,yaa.a@email.com,+233-253-555-0147,Ghana, Accra,27,Female,2024-01-26,2,54000,Basic
+TF-C048,Mutuku Kioko,mutuku.k@email.com,+254-730-555-0148,Kenya,Mombasa,,Male,2024-02-03,4,112000,Standard
+TF-C049,Ayanda Nkosi,ayanda.n@email.com,+27-91-555-0149,South Africa,Johannesburg,55,Female,2024-02-11,13,723000,Premium
+TF-C050,Uwimana Ange,uwimana.a@email.com,+250-795-555-0150,Rwanda,Kigali,30,Female,2024-02-19,3,89000,Basic
+TF-C051,Segun Adewale,segun.a@email.com,+234-815-555-0151,Nigeria,Lagos,41,MALE,2024-02-25,9,445000,Premium
+TF-C052,Akua Asante,akua.a@email.com,,Ghana,Kumasi,32,FEMALE,2024-03-04,4,123000,Standard
+TF-C053,Adhiambo Aoko,adhiambo.a@email.com,+254-731-555-0153,Kenya,Kisumu,29,Female,2024-03-10,2,56000,Standdard
+TF-C054,Thandi Khumalo,thandi.k@email.com,+27-92-555-0154,SA,Pretoria,47,Female,2024-03-16,7,312000,Premium
+TF-C055,Gaspard Habimana,gaspard.h@email.com,+250-796-555-0155,Rwanda,Kigali,33,Male,2024-03-22,5,NGN 178000,Standard
+TF-C056,Adaeze Okafor,adaeze.o@email.com,,Nigeria,Abuja,,Female,2024-03-28,1,19500,Basic
+TF-C057,Kwesi Mensah,kwesi.m@email.com,+233-254-555-0157,Ghana,Accra,7,Male,2024-04-03,1,8200,Basic
+TF-C058,Otieno Barasa,otieno.b@email.com,+254-732-555-0158,Kenya,Nairobi,38,Male,2024-04-09,3,-45000,Standard
+TF-C059,Zanele Khumalo,zanele.k@email.com,+27-93-555-0159,South Africa,Durban,43,Female,2024-04-15,8,356000,Premium
+TF-C060,Claudine Uwera,claudine.u@email.com,+250-797-555-0160,Rwanda,Kigali,31,Female,2024-04-21,4,134000,Standard
